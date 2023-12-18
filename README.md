@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's talk about himself... 👋
 
 <!--
 **EugeneNovikov13/EugeneNovikov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
