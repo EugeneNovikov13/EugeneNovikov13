@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 Со мной можно связаться любым из этих способов:
      
    :telephone_receiver: **+7(950)767-49-40**  
-   :iphone: Telegram: **@NovikovEvgenii**  
+   :iphone: Telegram: **[@NovikovEvgenii](https://t.me/NovikovEvgenii)**  
    :computer: Discord: **eugene_novikov**  
    :e-mail: **eugene.work.4940@gmail.com**  
 
